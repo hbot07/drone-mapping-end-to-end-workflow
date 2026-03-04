@@ -74,6 +74,8 @@ There will be three dots in the beginning. Use these three dots to cover the ent
 <img src="https://github.com/user-attachments/assets/844db279-6cef-40d0-a2a8-10560661ad89" alt="rename" width="500" height="225">
 <img src="https://github.com/user-attachments/assets/b43fe903-185f-4ddf-94bf-54a6ca21887f" alt="export" width="500" height="225"> <br> <br>
 
+You can now find the downloaded kmz file for use in the drones, in the 'Downloads' folder of your phone. 
+
 **Step 17:** Click on left facing triangle which will reveal the 'Exit' icon. Click and exit to the Home screen.
 
 <img src="https://github.com/user-attachments/assets/17ae4c17-33ca-4648-9047-16d983e650d2" alt="exit" width="500" height="225"> <br>
