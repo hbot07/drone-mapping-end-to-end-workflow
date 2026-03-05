@@ -6,7 +6,6 @@
 
 ## Section 1 : Creation and export of the flight paths
 
-
 **Step 1:** Install the Map Pilot Pro in your phone either through your mobile app store (Google Play Store/Apple App Store etc) or install it using an apk file.
 
 **Step 2:** Open the Map Pilot Pro app in your phone.
@@ -141,7 +140,40 @@ these three for most regions, especially the mountainous regions.
 
 ### For DJI Mini 5 Pro
 
-**Step 1:** Install the Map Pilot Pro in your phone either through your mobile app store (Google Play Store/Apple App Store etc) or install it using an apk file.
+For DJI Mini 5 Pro, the kmz file must be uploaded to the remote controller. But there is no straightfoward way to do this. Rohan Baishya explains in this section, a foolproof method to do this.
+
+**Step 1:** In the RC/DJI fly app, connect the drone and press 'GO FLY' 
+
+NOTE: Make sure the drone is placed outside for adequate satellite signal
+
+<img src="https://github.com/user-attachments/assets/e190f2ad-b712-4e35-8457-388bdc85222f" alt="rc-dji-app" width="600" height="325"> <br>
+
+**Step 2:** Click on the map at the bottom left corner (make sure your position is being shown on the map)
+
+<img src="https://github.com/user-attachments/assets/a60b004d-0a62-4db1-9c0e-385d0064d2c4" alt="map" width="600" height="325"> <br>
+
+**Step 3:** Click on the waypoint icon highlighted in yellow on the left-centre, and create a waypoint with at least 2 points.
+
+<img src="https://github.com/user-attachments/assets/03b0d842-8721-4b8c-9ae2-5e0a778ae37b" alt="waypoint-icon" width="600" height="325"> <br>
+
+**Step 4:** Click on the note/paper icon to left of the text 'Waypoint'. 
+
+<img src="https://github.com/user-attachments/assets/03b0d842-8721-4b8c-9ae2-5e0a778ae37b" alt="waypoint-icon" width="600" height="325"> <br>
+
+**Step 5:** Select the waypoint created and click on 'Save'.
+
+<img src="https://github.com/user-attachments/assets/ac1487d9-9e6d-4e17-bad9-adae3d681d54" alt="save" width="600" height="325">
+<img src="https://github.com/user-attachments/assets/e7328b47-2fb6-4d4d-8b96-77817e308da5" alt="save" width="600" height="325"> <br>
+
+
+
+
+
+
+
+
+
+
 
 [1]: https://docs.webodm.net/getting-started/image-capture/
 
