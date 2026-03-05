@@ -195,8 +195,8 @@ created in Map Pilot Pro app. Now you can disconnect the RC from the PC.
 
 **Step 12:**  Once the drone is connected, navigate to the note/paper icon to the left of the text 'Waypoint'. 
 
-<img src="https://github.com/user-attachments/assets/ddc9ed80-da2e-4eb3-b2d8-726252e020ad" alt="note_icon" width="800" height="525">
-<img src="https://github.com/user-attachments/assets/abac377f-17dd-476c-8d81-6ad8b4fb2e34" alt="note_icon" width="800" height="525"> <br>
+<img src="https://github.com/user-attachments/assets/ddc9ed80-da2e-4eb3-b2d8-726252e020ad" alt="note_icon" width="600" height="325">
+<img src="https://github.com/user-attachments/assets/abac377f-17dd-476c-8d81-6ad8b4fb2e34" alt="note_icon" width="600" height="325"> <br>
 
 The kmz file created in Map Pilot Pro should be visible now in the saved waypoints window. 
 
