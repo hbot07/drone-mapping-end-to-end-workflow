@@ -234,7 +234,7 @@ _Step 2c:_ Once it is connected, the phone will prompt you to connect to an exis
 
 <img src="https://github.com/user-attachments/assets/a9e559cf-f774-448a-81e3-db4e8240542d" alt="terrain_awareness" width="500" height="225"> <br>
 
-**Step 5:** You can click 'Override' on the 'Return to Home Height' pop-up.
+**Step 5:** You can click 'Override' on the 'Return to Home Height' pop-up to retain the set app.
 
 <img src="https://github.com/user-attachments/assets/48ac62eb-fa02-41fe-80c0-4eab6b298e9e" alt="terrain_awareness" width="500" height="225"> <br>
 
