@@ -218,7 +218,9 @@ You can ignore it, but ideally you would want a device with better memory.
 
 **Step 1:** As there is no way to export a created flight path to the Map Pilot Pro app in the free version, one has to create the flight path in the field. Follow section 1 to create the flight path, and input the right altitude, speed, overlap etc.
 
-**Step 2:** Once you've created the flight path, connect to the drone.
+**Step 2:** Once you've created the flight path, save the flight path using the floppy disk icon on top left.
+
+**Step 3:** Connect to the drone:
 
 _Step 2a:_ Switch on the RC and the drone.
 
@@ -226,28 +228,34 @@ _Step 2b:_ Connect the phone to the RC (Remote Control).
 
 _Step 2c:_ Once it is connected, the phone will prompt you to connect to an existing drone app - like DJI Fly or Map Pilot Pro. Select Map Pilot Pro.
 
-**Step 3:** The app will display the following pop-ups. Click 'OK'.
+**Step 4:** The app will display the following pop-ups. Click 'OK'.
 
 <img src="https://github.com/user-attachments/assets/64197afd-da05-4f4b-b12d-00610cf05977" alt="important_warning" width="500" height="225"> <br>
 
-**Step 4:** Then another pop-ups. Click 'No' as Terrain Awareness is not available in the free version.
+**Step 5:** Then another pop-ups. Click 'No' as Terrain Awareness is not available in the free version.
 
 <img src="https://github.com/user-attachments/assets/a9e559cf-f774-448a-81e3-db4e8240542d" alt="terrain_awareness" width="500" height="225"> <br>
 
-**Step 5:** You can click 'Override' on the 'Return to Home Height' pop-up to retain the set app.
+**Step 6:** You can click 'Override' on the 'Return to Home Height' pop-up to retain the set app.
 
 <img src="https://github.com/user-attachments/assets/48ac62eb-fa02-41fe-80c0-4eab6b298e9e" alt="terrain_awareness" width="500" height="225"> <br>
 
-**Step 6:** After checking the blue line (flight path). click 'OK' on the 'Path Verification' pop-up, and then click on 'Takeoff' on the top right.
+**Step 7:** Click on 'Upload' on the top right (need different screenshot).
+
+<img src="https://github.com/user-attachments/assets/48ac62eb-fa02-41fe-80c0-4eab6b298e9e" alt="terrain_awareness" width="500" height="225"> <br>
+
+**Step 8:** After checking the blue line (flight path). click 'OK' on the 'Path Verification' pop-up, and then click on 'Takeoff' on the top right.
 
 <img src="https://github.com/user-attachments/assets/cffd194a-0017-436e-97a6-71e4f0e1ce50" alt="terrain_awareness" width="500" height="225"> <br>
 
-**Step 7:** If the mapping is complete before the finishing up of one battery, it will show 'Mapping Complete'. Usually, the drone is programmed to return to home at betweeen 20-30% of the battery left
+**Step 9:** If the mapping is complete before the finishing up of one battery, it will show 'Mapping Complete'. Usually, the drone is programmed to return to home at betweeen 20-30% of the battery left
 for the purpose of safety. You can lower this perecentage at your risk so that more of the flight path is covered at one go. Click 'OK' on the Mapping Complete pop-up.
 
 <img src="https://github.com/user-attachments/assets/bfd3aa4f-53e0-4909-b7d4-8c118e7417ec" alt="terrain_awareness" width="500" height="225"> <br>
 
-**Step 8:**  Pilot the drone back to the point if it has not returned to home.
+**Step 10:**  Pilot the drone back to the point if it has not returned to home. 
+
+**Step 11:**  Save the flight path again in case only part of the flight path has been completed or if you want to know the route the drone took back to the home point.
 
 
 ## Section 4: Creation of orthomosaic in WebODM
