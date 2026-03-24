@@ -257,6 +257,29 @@ for the purpose of safety. You can lower this perecentage at your risk so that m
 
 **Step 11:**  Save the flight path again in case only part of the flight path has been completed or if you want to know the route the drone took back to the home point.
 
+### DJI Mini 4 pro
+
+**Step 1:** Connect the RC with the drone and enter an open ground
+
+**Step 2:** Select this option — it is the waypoint mode.
+
+<img src="images/step1.jpeg" width="600"> <br>
+
+**Step 3:** Select this list button.
+
+<img src="images/step2.jpeg" width="600"> <br>
+
+**Step 4:** Select the path you want to operate on as uploaded previously on DJI RC.
+
+<img src="images/step3.jpeg" width="600"> <br>
+
+**Step 5:** It will appear like this showing the number of waypoints present. Then press **Next**.
+
+<img src="images/step4.jpeg" width="600"> <br>
+
+**Step 6:** All the fields will already be filled as per the data configured in Map Pilot Pro. Press **Go** to make the drone fly on the selected flight path.
+
+<img src="images/step5.jpeg" width="600"> <br>
 
 ## Section 4: Creation of orthomosaic in WebODM
 
