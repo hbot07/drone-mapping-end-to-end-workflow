@@ -212,7 +212,7 @@ The kmz file created in Map Pilot Pro should be visible now in the saved waypoin
 
 _The screenshots for this section were largely contributed by Raju._
 
-Note that if you're opening the Map Pilot Pro app in aa device with 4 GB, you will get a warning like this:
+Note that if you're opening the Map Pilot Pro app in a device with 4 GB and/or a lot of it is in use, you will get a warning like this:
 
 <img src="https://github.com/user-attachments/assets/3153e1f8-11b3-404e-ab2a-3256c3205bd7" alt="memory_warning" width="500" height="225"> <br>
 
@@ -222,13 +222,29 @@ You can ignore it, but ideally you would want a device with better memory.
 
 **Step 2:** Once you've created the flight path, save the flight path using the floppy disk icon on top left.
 
-**Step 3:** Connect to the drone:
+**Step 3:** Connect to mobile app to the drone:
 
-_Step 2a:_ Switch on the RC and the drone.
+_Step 3a:_ Connect the mobile phone containing the Map Pilot Pro app to the RC (Remote Control) using the cable of the RC (see top right of the image below).
 
-_Step 2b:_ Connect the phone to the RC (Remote Control).
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/74d0cca3-d14e-4b95-a142-ce4fd304f961" /> <br>
 
-_Step 2c:_ Once it is connected, the phone will prompt you to connect to an existing drone app - like DJI Fly or Map Pilot Pro. Select Map Pilot Pro.
+_Step 3b:_ Switch on the RC by single pressing the power button (the button on the right below) followed by a long press. This will show a brief flash of green (after single short press) and then permanent green light (after long press).
+
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/29344496-9b4a-4488-8c31-ced0fb24b3f0" />
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/ae986ec4-cefa-44c7-a8d0-f3053f444797" /> <br>
+
+If you are already on the Map Pilot Pro app of the phone, it will show the following message: "Connected for charging only. Tap the USB notification to use USB for transferring files." You can change the setting if you fear any significant battery drainage of the RC by the mobile phone (there won't be). So, you can ignore this and not change anything. The connection to the RC will work whether you change the transfer settings or not.
+
+<img width="500" height="225" alt="image" src="https://github.com/user-attachments/assets/00445071-171b-4309-b0ca-94fe6ff1f376" />
+
+_Step 3c:_  Switch on the drone by single pressing the power button (the button on the center of the drone) followed by a long press. This will show a brief flash of green (after single short press) and then permanent green light (after long press).
+
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/97416827-b12a-4873-afcb-b8a8a2dc251b" />
+<img width="395" height="395" alt="image" src="https://github.com/user-attachments/assets/cb012e6d-c8de-41d3-b5a0-55ff6cba7c91" /> <br>
+
+Now the the drone will be detected by the mobile phone.
+
+_Step 3d:_ Once it is detected, the phone will prompt you to connect to an existing drone app - like DJI Fly or Map Pilot Pro. Select Map Pilot Pro. If you're already on the Map Pilot Pro app, you can skip this step.
 
 **Step 4:** The app will display the following pop-ups. Click 'OK'.
 
