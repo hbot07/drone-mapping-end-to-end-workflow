@@ -48,7 +48,7 @@ If, not zoom out of Lower Manhattan and zoom into your region of interest.
 <img src="https://github.com/user-attachments/assets/aaf5bd08-a6fb-41ec-8aab-9a1dcff34862" alt="zoomed_out_viewport" width="500" height="225"> 
 <img src="https://github.com/user-attachments/assets/28fb3231-44aa-4aa4-beba-4ce98da2424d" alt="zoomed_in_roi" width="500" height="225"> <br> <br>
 
-**Step 9:** Specify the altitude (80 m is ideal), speed (slow speeds of 3 m/s is recommended for clear capture of images), and overlap (80% overlap in the front and sides (80/80) is recommended. For class specific recommendations, you can visit read [this article][1]).Click on 'Norm Mission' and then 'Normal'. 
+**Step 9:** Specify the altitude (80 m is generally ideal to avoid obstacles but keep reasonably high resolution imagery), speed (slow speeds of 3 m/s or less is recommended for clear capture of images), and overlap (80% overlap in the front and sides (80/80) is recommended. For class specific recommendations, you can visit read [this article][1]).Click on 'Norm Mission' and then 'Normal'. 
 
 <img src="https://github.com/user-attachments/assets/21a01ea1-84cc-4078-92fc-60c043bfb61e" alt="norm_mission" width="500" height="225"> <br> 
 
@@ -286,7 +286,7 @@ But it is highly recommended that you don't, as you can risk the drone crash lan
 
 **Step 15:**  Click on the return to home icon on the top right if the drone has not returned. As a last resort, in case the drone is not returning back on its own, take control using the joystick buttons and pilot the drone back to the home point. 
 
-Step  to  are needed only for multi-battery missions.
+*Step  to  are needed only for multi-battery missions.*
 
 **Step 16:** The battery low alarm triggers at around 20% battery and the automatic return to home features triggers after reaching a certain threshold of battery level (less than 20%, at around 17% in our case). If this automatic feature has not been triggered, click on the return to home icon (RTH) on the top right. Any of these two will result in the pop-up "Returning Home". Click "OK".
 
@@ -302,18 +302,32 @@ More flights are required to complete the mission". <br>
 
 Click "OK"
 
-<img src="https://github.com/user-attachments/assets/3ee71538-bced-4253-b7b4-46c973f598f2" alt="mapping_complete" width="500" height="225"> <br>
+<img src="https://github.com/user-attachments/assets/b1f911b2-1089-450e-a746-6ec0dec89532" alt="mapping_complete" width="500" height="225"> <br>
 
 **Step 18:** Now switch off the drone with a short single press and then a long press on the power button.
 
-**Step 19:** Now, replace the battery of the drone. Don't exit the Map Pilot Pro app. It will likely exit the current mission screen when the drone has been switched off, but when you click on 'New Mission' again, the flight path with the abandonment point will still be visible.
+**Step 19:** Replace the battery of the drone. Don't exit the Map Pilot Pro app. It will likely exit the current mission screen when the drone has been switched off, but when you click on 'New Mission' again, the flight path with the abandonment point will still be visible.
 
-**Step 20:** ![1000009309](https://github.com/user-attachments/assets/b1f911b2-1089-450e-a746-6ec0dec89532)
+**Step 20:** Click on the 'Upload' icon on the top right and it will upload the remaining flight path with the points for capturing the images.
+
+<img src="https://github.com/user-attachments/assets/26bf9002-4a99-4ccd-a9e7-f6ab1628608a" alt="mapping_complete" width="500" height="225">
+<img src="https://github.com/user-attachments/assets/e9579442-fb49-49a4-8fe1-73cf8f772a63" alt="mapping_complete" width="500" height="225"> <br> <br>
 
 
 **Step 21:**  Save the flight path again in case only part of the flight path has been completed or if you want to know the route the drone took back to the home point.
 
-**Potential issue:** A major issue that can affect the flight is loss of connection to the satellites, in which case the drone won't continue on the same path when connection comes back (the connection seems to drop after the number of satellites becomes 17 or less). It will show a loading icon in the center of the screen along with the number of satellites missing (as seen below).
+**Note:** <br> If you want to see the flight logs of any flight mission, you can go to 'File Manager' and then 'Mission Logs'.
+
+<img src="https://github.com/user-attachments/assets/fa697bed-0643-437e-8bf4-155668b20d33" alt="file_manager" width="500" height="225"> 
+<img src="https://github.com/user-attachments/assets/e129a13d-61d3-4c66-a441-585bfe4e0d9c" alt="import" width="500" height="225"> <br>
+
+In the mission logs, you will get two outputs - a csv file containing milli-second level breakdown of the flight and associated metadata like the coordinates at each point of time, RC signal and battery level, as well as a kml file of the flight path.
+
+If there was one battery change in between the the full flight path, then there will two csv files and two kmls for each segment of the flight path.
+
+
+
+**Potential issue:** <br> A major issue that can affect the flight is loss of connection to the satellites, in which case the drone won't continue on the same path when connection comes back (the connection seems to drop after the number of satellites becomes 17 or less). It will show a loading icon in the center of the screen along with the number of satellites missing (as seen below).
 
 <img src="https://github.com/user-attachments/assets/7ba49f1f-6d56-48fc-89ac-e6cf2c7dc0aa" alt="potential_issue" width="500" height="225"> <br>
 
