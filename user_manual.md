@@ -289,7 +289,7 @@ But it is highly recommended that you don't, as you can risk the drone crash lan
 
 *Step  to  are needed only for multi-battery missions.*
 
-**Step 16:** The battery low alarm triggers at around 20% battery and the automatic return to home features triggers after reaching a certain threshold of battery level (less than 20%, at around 17% in our case). If this automatic feature has not been triggered, click on the return to home icon (RTH) on the top right. Any of these two will result in the pop-up "Returning Home". Click "OK". We found that majority of the 
+**Step 16:** The battery low alarm triggers at around 20% battery and the automatic return to home features triggers after reaching a certain threshold of battery level (less than 20%, at around 17% in our case). If this automatic feature has not been triggered, click on the return to home icon (RTH) on the top right. Any of these two will result in the pop-up "Returning Home". Click "OK". In one of the flights, we found that majority of the flight path of the estimated 5.53 km (it was actually less than that) and 9.4 hectares, had been completed with just one battery, using around 72% of the battery (from 89 to 17 per cent). So, it's possible to cover a relatively large flight path with just one battery as long as it is fully charged.
 
 <img src="https://github.com/user-attachments/assets/06d52eea-273f-40f2-ab33-9e4add535719" alt="mapping_complete" width="500" height="225">
 <img src="https://github.com/user-attachments/assets/0f583912-e0e7-44e2-95a5-22abfc76e17e" alt="mapping_complete" width="500" height="225"> 
