@@ -130,13 +130,14 @@ This is needed so that the boundary files show up in the map.
 You can see that in this case, there are grey line segments after the white line segments in the flight path. The grey lines indicate whose paths which cannot be completed in one flight,
 and multiple batteries would be required to complete such large survey areas. The drone is estimated to return to the home point after reaching the end of the white line, and then after battery has been replaced,
 it will continue from where it left off. **But this may not be the case in real life and this can be an overestimation, allowing us to actually cover areas in the grey region as well** (as is seen in the screenshot of a real mission on the bottom left below).
-For details on how much distance the flight path covers, the number of batteries required, area covered, number of images captured, amount of space it will take in storage, click on the polygon icon on the left of the screen. These may not be 100% accurate.
-If you have a paid account and wants to have better terrain awareness for the flight path, click on the icon on the bottom left with one coniferous  tree and two  snow-capped mountains. It will allow you to select the digital elevation model. 
-ASTER is the worst among them for most regions. SRTM is better, but Copernicus is likely the most accurate among these three for most regions, especially the mountainous regions.
+For details on how much distance the flight path covers, time required, the number of batteries required, area covered, number of images captured, amount of space it will take in storage, click on the polygon icon on the left of the screen. These may not be 100% accurate. For example, in a multi-battery flight of ours, the estimated time was given as 33 min 21 sec, but it was actually close to 31 min 47 sec (based on the mission logs). Most of the estimates may be a slight overestimate (which is better than an underestimate from a practical point of view).
 
 <img src="https://github.com/user-attachments/assets/bc32b989-9ea4-40da-8865-b196c01b3a64" alt="boundary_files" width="500" height="225">
 <img src="https://github.com/user-attachments/assets/e7a38cb7-83b2-4cc8-b50e-3a72ce70b0a4" alt="white_and_grey_lines1" width="500" height="225">
-<img src="https://github.com/user-attachments/assets/ae3ee731-c104-4634-937d-1eda5677398d" alt="white_and_grey_lines2" width="500" height="225">
+<img src="https://github.com/user-attachments/assets/ae3ee731-c104-4634-937d-1eda5677398d" alt="white_and_grey_lines2" width="500" height="225"> <br>
+
+If you have a paid account and wants to have better terrain awareness for the flight path, click on the icon on the bottom left with one coniferous  tree and two  snow-capped mountains. It will allow you to select the digital elevation model. 
+ASTER is the worst among them for most regions. SRTM is better, but Copernicus is likely the most accurate among these three for most regions, especially the mountainous regions.
 <img src="https://github.com/user-attachments/assets/facc8bfc-35cf-4a65-8c5d-88302e5450f5" alt="more_details" width="500" height="225"> <br> <br>
 
 
@@ -288,7 +289,7 @@ But it is highly recommended that you don't, as you can risk the drone crash lan
 
 *Step  to  are needed only for multi-battery missions.*
 
-**Step 16:** The battery low alarm triggers at around 20% battery and the automatic return to home features triggers after reaching a certain threshold of battery level (less than 20%, at around 17% in our case). If this automatic feature has not been triggered, click on the return to home icon (RTH) on the top right. Any of these two will result in the pop-up "Returning Home". Click "OK".
+**Step 16:** The battery low alarm triggers at around 20% battery and the automatic return to home features triggers after reaching a certain threshold of battery level (less than 20%, at around 17% in our case). If this automatic feature has not been triggered, click on the return to home icon (RTH) on the top right. Any of these two will result in the pop-up "Returning Home". Click "OK". We found that majority of the 
 
 <img src="https://github.com/user-attachments/assets/06d52eea-273f-40f2-ab33-9e4add535719" alt="mapping_complete" width="500" height="225">
 <img src="https://github.com/user-attachments/assets/0f583912-e0e7-44e2-95a5-22abfc76e17e" alt="mapping_complete" width="500" height="225"> 
@@ -326,6 +327,15 @@ Click "OK"
 
 <img src="https://github.com/user-attachments/assets/fa697bed-0643-437e-8bf4-155668b20d33" alt="file_manager" width="500" height="225"> 
 <img src="https://github.com/user-attachments/assets/e129a13d-61d3-4c66-a441-585bfe4e0d9c" alt="import" width="500" height="225"> <br>
+
+If you had kept auto deletion disabled, you will get a pop-up. You can press "OK". It's best to not auto delete logs if you think that logs will be useful for your research or replication of the flight in the same manner.
+
+<img src="https://github.com/user-attachments/assets/aa650d8d-edb3-42b6-a8b9-8aed17a8b98b" alt="import" width="500" height="225"> <br>
+
+You can go to specific missions which will show the multiple segments (if a multi-battery mission), and you can export them (export pop-up will only show the csv, but kml will also be exported along with it irrespective of whether you keep the 'Show KML' option turned on or not).
+<img src="https://github.com/user-attachments/assets/4ecab817-33ac-4f2f-97b9-20b2c8287b50" alt="import" width="500" height="225">
+<img src="https://github.com/user-attachments/assets/e09867cb-7ac7-4243-b784-68e31482438e" alt="import" width="500" height="225">
+<img src="https://github.com/user-attachments/assets/4fb84be5-1d9e-42d6-9447-1d7efa4d02cb" alt="import" width="500" height="225"> <br>
 
 In the mission logs, you will get two outputs - a csv file containing milli-second level breakdown of the flight and associated metadata like the coordinates at each point of time, RC signal and battery level, as well as a kml file of the flight path (which will also show the route the drone took to the starting point as well as back to the home point. The csv file is very detailed with 61 different fields/columns.
 
