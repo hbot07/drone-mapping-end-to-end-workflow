@@ -257,7 +257,7 @@ for the purpose of safety. You can lower this perecentage at your risk so that m
 
 **Step 11:**  Save the flight path again in case only part of the flight path has been completed or if you want to know the route the drone took back to the home point.
 
-### DJI Mini 4 pro
+### DJI Mini 4 Pro
 
 **Step 1:** Connect the RC with the drone and enter an open ground
 
