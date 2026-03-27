@@ -263,23 +263,23 @@ for the purpose of safety. You can lower this perecentage at your risk so that m
 
 **Step 2:** Select this option — it is the waypoint mode.
 
-<img src="https://github.com/hbot07/drone-mapping-end-to-end-workflow/blob/main/images/step1.jpeg?raw=true" width="600"> <br>
+<img src="https://github.com/hbot07/Drone-Phenology-Monitoring/blob/2f8553c89832045c92a51927bdbe357ce9f72b67/misc/guide_for%20_drone_tasks/images/step1.jpeg?raw=true" width="600"> <br>
 
 **Step 3:** Select this list button.
 
-<img src="https://github.com/hbot07/drone-mapping-end-to-end-workflow/blob/main/images/step2.jpeg?raw=true" width="600"> <br>
+<img src="https://github.com/hbot07/Drone-Phenology-Monitoring/blob/2f8553c89832045c92a51927bdbe357ce9f72b67/misc/guide_for%20_drone_tasks/images/step2.jpeg?raw=true" width="600"> <br>
 
 **Step 4:** Select the path you want to operate on as uploaded previously on DJI RC.
 
-<img src="https://github.com/hbot07/drone-mapping-end-to-end-workflow/blob/main/images/step3.jpeg?raw=true" width="600"> <br>
+<img src="https://github.com/hbot07/Drone-Phenology-Monitoring/blob/2f8553c89832045c92a51927bdbe357ce9f72b67/misc/guide_for%20_drone_tasks/images/step3.jpeg?raw=true" width="600"> <br>
 
 **Step 5:** It will appear like this showing the number of waypoints present. Then press **Next**.
 
-<img src="https://github.com/hbot07/drone-mapping-end-to-end-workflow/blob/main/images/step4.jpeg?raw=true" width="600"> <br>
+<img src="https://github.com/hbot07/Drone-Phenology-Monitoring/blob/2f8553c89832045c92a51927bdbe357ce9f72b67/misc/guide_for%20_drone_tasks/images/step4.jpeg?raw=true" width="600"> <br>
 
 **Step 6:** All the fields will already be filled as per the data configured in Map Pilot Pro. Press **Go** to make the drone fly on the selected flight path.
 
-<img src="https://github.com/hbot07/drone-mapping-end-to-end-workflow/blob/main/images/step5.jpeg?raw=true" width="600"> <br>
+<img src="https://github.com/hbot07/Drone-Phenology-Monitoring/blob/2f8553c89832045c92a51927bdbe357ce9f72b67/misc/guide_for%20_drone_tasks/images/step5.jpeg?raw=true" width="600"> <br>
 
 ## Section 4: Creation of orthomosaic in WebODM
 
